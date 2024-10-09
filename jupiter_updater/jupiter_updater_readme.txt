@@ -38,4 +38,3 @@ Important Note
 
 Troubleshooting
     If the script reports that the jupiter-config.toml file is not found, ensure it is correctly placed within the NotArb folder or its subdirectories.
-    If you encounter any issues downloading the file, verify your internet connection and the URL used in the script.
