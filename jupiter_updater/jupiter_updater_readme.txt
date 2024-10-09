@@ -18,11 +18,13 @@ How to Use
     Run the Script:
         Open a terminal or command prompt.
 
-        Navigate to the directory where the script is located.
+        Navigate to the "libs" folder within the NotArb folder, make sure this is where the script is located.
 
         Run the script using the command:
 
         python jupup.py
+	or 
+	python3 jupup.py
 
 How It Works
     The script first downloads the ZIP file from the specified URL.
